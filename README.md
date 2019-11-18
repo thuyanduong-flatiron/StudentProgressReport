@@ -4,9 +4,9 @@ Ever wish you could see which students finished which lessons without having to 
 
 ![Demo](./demo.gif)
 
-Open up the Chrome Developer Tools in a Learn.co webpage. Copy and paste the source code from script.min.js into the console and replace the batchId and trackId (you can find this information form the Network tab).
+Open up the Chrome Developer Tools in a Learn.co webpage. Copy and paste the source code from `script.min.js` into the console and replace the batchId and trackId (you can find this information form the Network tab).
 
-You'll see a list of individualized student's lessons progress.
+You'll see a break down of each and every student's individual lessons progress. This works for PREWORK as well:
 * ✅ The lesson is complete
 * 💪 The lesson is in progress
 * ❌ The lesson has not been started
